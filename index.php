@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Aerolinea G2</title>
 </head>
+    <!--***************************-->
 <body>
     <div class="content">
         <header>
